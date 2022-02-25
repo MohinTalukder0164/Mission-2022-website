@@ -1,0 +1,122 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.top-h1{
+    font-size: 80px;
+    color: rgb(94, 90, 90);
+    font-family: 'Unna', serif; 
+    height: 20px;
+    border-image-slice: 1;   
+}
+.text-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+}    
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( tomato, red);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.mission-head h1{
+    text-align: center;
+    font-size: 40px; 
+}
+.mission-main{
+    display: flex;
+}
+.mission-text h3{
+    font-size: 30px;
+    text-align: center;
+}
+.reci-head h1{
+    text-align: center;
+    font-size: 40px;
+}
+.mission-main{
+    display: flex;
+    margin: 0 100px 0 100px;
+
+}
+.mission-image{
+    width: 50%;
+}
+.mission-item-1{
+    width: 30%;
+    padding:30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(214, 224, 224);
+    border-radius: 20px;
+    text-align: center;
+}
+.mission-item-2{
+    width: 30%;
+    padding:30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(238, 204, 221);
+    border-radius: 20px;
+    text-align: center;
+}
+.mission-item-3{
+    width: 30%;
+    padding:30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(250, 237, 218);
+    border-radius: 20px;
+    text-align: center;
+}
+.about-me{
+    background-image: url(); 
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    padding: 2%;
+}
+.about-me h1{
+    font-size: 50px;
+    height: 20px;
+}
+.corona-site h1{
+    font-size: 50px;
+    height: 20px;
+}
+#corona-img{
+    
+}
+#footer-main{
+    margin-top: 100px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: black;
+
+}
+.footer-text h1{
+    text-align: center;
+    font-family: 'Praise', cursive;
+    font-size: 50px;
+    color: white;
+}
+.footer-text p{
+    text-align: center;
+    color: white;
+}
+.footer-h1{
+    color: orangered;
+}
